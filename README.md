@@ -1,0 +1,1 @@
+# ESP32_Multi_Sensor_LoRa_Gateway_JSON_Configuration
